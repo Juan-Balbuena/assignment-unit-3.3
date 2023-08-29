@@ -13,7 +13,7 @@ console.log(partsNeeded);
 
 console.log('2. Create supplyChanges:');
 
-let supplyChanges = ['3', '5', '-6', '0', '7', '11'];
+let supplyChanges = [3, 5, -6, 0, 7, 11];
 console.log(supplyChanges);
 
 // 3. Create a variable called 'secondItem' and assign it the value of the second
