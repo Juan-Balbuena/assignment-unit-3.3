@@ -30,7 +30,7 @@ let removedItem = 11;
 console.log('The number that was removed was', removedItem);
 // 5. A delivery of 25 more parts arrived. Add the value 25 to the end of the array
 console.log('5. Add the value 25 into supplyChanges.');
-supplyChanges.push('25');
+supplyChanges.push(25);
 console.log(supplyChanges);
 
 // 6. Create three new variables named 'positives', 'negatives', and
